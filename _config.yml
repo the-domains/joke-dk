@@ -1,0 +1,28 @@
+name: Joke.dk
+favicon: null
+layout_spectrum: 0.9153155097737908
+typography_spectrum: 0.6469817217439413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3865653737448156
+  lightness: 0.6250501277390867
+  saturation: 0.569245002232492
+  rhythmicContrast: 0.9769158910494298
+purpose: []
