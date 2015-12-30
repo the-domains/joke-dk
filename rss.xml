@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joke.dk]]></title>
         <description><![CDATA[Joke.dk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://joke.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 16:15:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 21:27:23 GMT</lastBuildDate>
+        <atom:link href="http://joke.dk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9644c9c9-0cd7-4c20-b7b4-bc240253f402.jpg">]]></description>
+            <link>http://joke.dk/6bec1f97-780d-457f-b6ce-ce423edbb53c/index.html</link>
+            <guid isPermaLink="false">6bec1f97-780d-457f-b6ce-ce423edbb53c</guid>
+            <pubDate>Wed, 30 Dec 2015 21:27:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6032e973-3f3e-4383-b56a-f3daa1a4848e.jpg" alt="" title="">]]></description>
-            <link>undefined3d94783d-1f8e-499a-a85b-b4c0617c3a13/index.html</link>
+            <link>http://joke.dk/3d94783d-1f8e-499a-a85b-b4c0617c3a13/index.html</link>
             <guid isPermaLink="false">3d94783d-1f8e-499a-a85b-b4c0617c3a13</guid>
             <pubDate>Wed, 30 Dec 2015 16:14:55 GMT</pubDate>
         </item>
